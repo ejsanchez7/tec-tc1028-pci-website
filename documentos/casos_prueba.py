@@ -1,4 +1,4 @@
-#título          :casos de prueba.py
+#título          :casos_prueba.py
 #descripción     :ejemplo comparativo de casos de prueba para precio.
 #autor           :Benjamín Valdés
 #python_version  :3.5.2  

@@ -1,4 +1,4 @@
-#título          :prisma pentagonal funciones.py
+#título          :prisma_pentagonal_funciones.py
 #descripción     :calcula el volumen de un prisma pentangonal.
 #autor           :Benjamín Valdés
 #python_version  :3.5.2  
